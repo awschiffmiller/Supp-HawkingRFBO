@@ -4,7 +4,7 @@ Unrecognized importance of hawking prey capture tactics in a tropical plunge div
 Data and code for processing Prey Capture Attempt data and accelerometry data, and making plots.
  
 Code:Plots and Results
-      - HawkingRFBOsCode.Rmd
+   - HawkingRFBOsCode.Rmd
 
 Functions:
 - AxyCalcs: Function to calculate static and dynamic acceleration
